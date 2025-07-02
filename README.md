@@ -22,3 +22,6 @@ Este MVP apresenta uma interface web responsiva que permite ao usuário:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Leandrosilva20/mvp-restaurantes-teresopolis.git
+
+  🔗 [Clique aqui para acessar o site publicado](https://leandrosilva20.github.io/mvp-restaurantes-teresopolis/)
+
