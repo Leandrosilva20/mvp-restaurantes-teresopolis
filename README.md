@@ -1,4 +1,3 @@
-# mvp-restaurantes-teresopolis
 #  MVP - Melhores Restaurantes de Teresópolis
 
 ##  Integrante
